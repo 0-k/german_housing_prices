@@ -1,0 +1,7 @@
+HEADERS: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0'}
+URL_SEARCH: https://www.immowelt.de/liste/berlin/haeuser/kaufen?d=true&efs=NEW_BUILDING_PROJECT&efs=JUDICIAL_SALE
+URL_EXPOSE: https://www.immowelt.de/expose/
+PATH_CACHE: ../cache/
+TEST_SIZE: 0.2
+DO_PLOTS: True
+DATASET_NAME: berlin_houses.csv

@@ -1,11 +1,15 @@
-# python-template
+# housing_prices
 
-Project template in Python
-
+Model of recent (2022) housing prices in Germany.
 
 ## TODO
 
-* Add todo items here
+* Write data scraper for immowelt.de
+* Scrape data 
+* Clean data
+* Train model
+* Validate model
+
 
 ## Credits
 
